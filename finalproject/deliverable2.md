@@ -73,7 +73,7 @@ sudo systemctl restart apache2
 ###  Test Apache Configuration
 ```bash
 sudo apache2ctl
-```
+```g
 - **Purpose:** Validates the configuration for syntax errors
 
 ###  Check Apache Version
